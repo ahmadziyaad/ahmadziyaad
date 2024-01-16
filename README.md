@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ziyaad</h1>
 <h3 align="center">A hard-working student from Universiti Teknologi Malaysia</h3>
 
-- 🔭 I’m currently working on [a Design Thinking Project](https://www.canva.com/design/DAF3OyWU3qM/gWvc4o1X3_k0QuFyEwPsaw/edit?utm_content=DAF3OyWU3qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- 🌱 I’m currently learning C++, Digital Logic and Discrete Math
+- 🔭 I’m currently focusing on my final exams in upcoming weeks.
 
 - 👯 I’m looking to collaborate on projects related programming and basic database development to build a solid skill foundation
 
-- 🤝 I’m looking for help with coding problems
+- 🤝 I’m looking for help with coding problems.
 
 - 👨‍💻 All of my projects are available at [github.com/ahmadziyaad](github.com/ahmadziyaad)
 
