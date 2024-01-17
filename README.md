@@ -14,8 +14,8 @@
 - 📫 How to reach me ahmadziyaad@graduate.utm.my
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">ahmadziyaad@graduate.utm.my</h3>
-<p align="left">ahmadziyaad04@gmail.com</h3>
+<p align="left">[ahmadziyaad@graduate.utm.my](mailto:ahmadziyaad@graduate.utm.my)</h3>
+<p align="left">[ahmadziyaad04@gmail.com](mailto:ahmadziyaad04@gmail.com)</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
