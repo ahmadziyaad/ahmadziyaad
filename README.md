@@ -15,7 +15,7 @@
 
 - 🌐 To learn more about me you check out my website <a href="https://yadski.netlify.app/"> https://yadski.netlify.app/</a>
 
-<h3 align="left"><u>EDUCATION :</u></h3>
+<h1 align="left"><u>EDUCATION :</u></h1>
 <p align="left">🎓 Foundation in Engineering and Technology at Kolej MARA Kuala Nerang  :  CGPA 4.00</h3>
 <p align="left">🎓 MARA Junior Science College Taiping  :  SPM 6A+ 2A 1A- </h3>
 <p align="left">🎓 Victoria Institution Kuala Lumpur  :  PT3 7A 2B</h3>
