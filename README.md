@@ -15,9 +15,16 @@
 
 - 🌐 To learn more about me you check out my website <a href="https://yadski.netlify.app/"> https://yadski.netlify.app/</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">EDUCATION :</h3>
+<p align="left">Foundation in Engineering and Technology at Kolej MARA Kuala Nerang  :  CGPA 4.00</h3>
+<p align="left">MARA Junior Science College Taiping  :  SPM 6A+ 2A 1A- </h3>
+<p align="left">Victoria Institution Kuala Lumpur  :  PT3 7A 2B</h3>
+</p>
+
+<h3 align="left">CONNECT WITH ME :</h3>
 <p align="left">📧ahmadziyaad@graduate.utm.my</h3>
 <p align="left">📧ahmadziyaad04@gmail.com</h3>
+<p align="left"><a href="https://yadski.netlify.app/](https://www.linkedin.com/in/ahmad-ziyaad-27058529a/"> LinkedIn</a></h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
