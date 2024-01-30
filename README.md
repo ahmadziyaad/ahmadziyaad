@@ -13,7 +13,7 @@
 
 - 📫 Main way to reach me is through my email  :  ahmadziyaad@graduate.utm.my
 
-- 🌐 To learn more about me you check out my website <a href="https://yadski.netlify.app/"> https://yadski.netlify.app/</a>
+- 🌐 To learn more about me check out my website <a href="https://yadski.netlify.app/"> https://yadski.netlify.app/</a>
 
 <h3 align="left"><u>EDUCATION :</u></h3>
 <p align="left">🎓 Foundation in Engineering and Technology at Kolej MARA Kuala Nerang  :  CGPA 4.00</h3>
