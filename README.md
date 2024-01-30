@@ -13,7 +13,7 @@
 
 - 📫 How to reach me ahmadziyaad@graduate.utm.my
 
-- 🌐 To learn more about me you check out my website <a href="https://yadski.netlify.app/"> https://yadski.netlify.app/)</a>
+- 🌐 To learn more about me you check out my website <a href="https://yadski.netlify.app/"> https://yadski.netlify.app/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">📧ahmadziyaad@graduate.utm.my</h3>
