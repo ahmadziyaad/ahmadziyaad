@@ -11,14 +11,14 @@
 
 - 💬 My goals include achieving fluency in various programming languages and securing a job as a Data Engineer in the future.
 
-- 📫 How to reach me ahmadziyaad@graduate.utm.my
+- 📫 Main way to reach me is through my email  :  ahmadziyaad@graduate.utm.my
 
 - 🌐 To learn more about me you check out my website <a href="https://yadski.netlify.app/"> https://yadski.netlify.app/</a>
 
-<h3 align="left">EDUCATION :</h3>
-<p align="left">Foundation in Engineering and Technology at Kolej MARA Kuala Nerang  :  CGPA 4.00</h3>
-<p align="left">MARA Junior Science College Taiping  :  SPM 6A+ 2A 1A- </h3>
-<p align="left">Victoria Institution Kuala Lumpur  :  PT3 7A 2B</h3>
+<h3 align="left"><b>EDUCATION :</b></h3>
+<p align="left">🎓Foundation in Engineering and Technology at Kolej MARA Kuala Nerang  :  CGPA 4.00</h3>
+<p align="left">🎓MARA Junior Science College Taiping  :  SPM 6A+ 2A 1A- </h3>
+<p align="left">🎓Victoria Institution Kuala Lumpur  :  PT3 7A 2B</h3>
 </p>
 
 <h3 align="left">CONNECT WITH ME :</h3>
