@@ -24,7 +24,7 @@
 <h3 align="left">CONNECT WITH ME :</h3>
 <p align="left">📧ahmadziyaad@graduate.utm.my</h3>
 <p align="left">📧ahmadziyaad04@gmail.com</h3>
-<p align="left"><a href="www.linkedin.com/in/yadski"> LinkedIn</a></h3>
+<p align="left"><a href="www.linkedin.com/in/yadski/"> LinkedIn</a></h3>
 </p>
 
 <h3 align="left">HOBBIES :</h3>
