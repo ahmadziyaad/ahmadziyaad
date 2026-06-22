@@ -88,29 +88,16 @@ I am a Computer Science (Data Engineering) undergraduate at **Universiti Teknolo
 ## Experience
 
 - **Secretary** — *UTM ICT Community Service Club* (2024–2025): Led ICT community outreach, taught basic networking and Wi-Fi setup, and managed club administration.
+- **Cashier** — *Lotus's Wangsa Walk* (2023): Handled high-volume transactions and delivered customer service in a busy retail environment.
 
 <!-- ========================= GITHUB STATS ========================= -->
 ## GitHub Activity
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmadziyaad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1F4E79&icon_color=1F4E79&text_color=334155&bg_color=FFFFFF" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadziyaad&layout=compact&hide_border=true&title_color=1F4E79&text_color=334155&bg_color=FFFFFF" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadziyaad&hide_border=true&background=FFFFFF&ring=1F4E79&fire=1F4E79&currStreakLabel=1F4E79&sideLabels=334155&dates=94A3B8&stroke=334155&currStreakNum=1F4E79&sideNums=1F4E79" />
-
-</div>
-
-<!-- ========================= ACTIVITY GRAPH ========================= -->
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadziyaad&custom_title=Contribution%20Activity&bg_color=ffffff&color=1f4e79&line=1f4e79&point=0d2538&area=true&area_color=cfe0f0&hide_border=true&title_color=1f4e79" width="100%" alt="Contribution activity graph" />
-
-</div>
+<p align="left">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadziyaad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=93C5FD&icon_color=93C5FD&text_color=CBD5E1&bg_color=0D2538" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadziyaad&layout=compact&hide_border=true&title_color=93C5FD&text_color=CBD5E1&bg_color=0D2538" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadziyaad&hide_border=true&background=0D2538&ring=93C5FD&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=CBD5E1&dates=94A3B8&stroke=334E6B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</p>
 
 <!-- ========================= CONNECT ========================= -->
 ## Connect
