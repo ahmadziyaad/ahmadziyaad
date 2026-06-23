@@ -88,7 +88,6 @@ I am a Computer Science (Data Engineering) undergraduate at **Universiti Teknolo
 ## Experience
 
 - **Secretary** — *UTM ICT Community Service Club* (2024–2025): Led ICT community outreach, taught basic networking and Wi-Fi setup, and managed club administration.
-- **Cashier** — *Lotus's Wangsa Walk* (2023): Handled high-volume transactions and delivered customer service in a busy retail environment.
 
 <!-- ========================= GITHUB STATS ========================= -->
 ## GitHub Activity
